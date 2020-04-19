@@ -1,0 +1,49 @@
+html {
+    /* font-size: 20px; */
+    background: url(https://i.pinimg.com/originals/52/60/db/5260dbc1bad2db6fc87c7af1e6da98ef.jpg) bottom center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+.pagetitle {
+    font-size: 30px;
+    color: white;
+
+}
+
+.results {
+    font-size: 30px;
+    border: .4rem solid black;
+    border-radius: .5rem;
+    margin: .5rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    transition: all .07s ease;
+    width: 50% center;
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem black;
+}
+
+.btns {
+    display: flex;
+    flex: 1;
+    min-height: 20vh;
+    align-items: center;
+    justify-content: center;
+    }
+
+.btn {
+    border: .4rem solid black;
+    border-radius: .5rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    transition: all .07s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem black;
+    }
